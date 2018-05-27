@@ -4,9 +4,6 @@ cache:
     paths:
         - node_modules/
 
-variables:
-    GIT_SUBMODULE_STRATEGY: recursive
-
 before_script:
     - npm install hexo-cli -g
     - npm install
