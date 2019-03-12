@@ -5,7 +5,7 @@
 Example [Hexo] website using GitLab Pages.
 
 Learn more about GitLab Pages at https://pages.gitlab.io and the official
-documentation http://doc.gitlab.com/ee/pages/README.html.
+documentation https://docs.gitlab.com/ee/user/project/pages/.
 
 ---
 
