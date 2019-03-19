@@ -27,22 +27,25 @@ This project's static Pages are built by [GitLab CI][ci], following the steps
 defined in [`.gitlab-ci.yml`](.gitlab-ci.yml):
 
 ```
-image: node:8.11.2
+image: node:10.15.3
 
-pages:
-  cache:
-    paths:
+cache:
+  paths:
     - node_modules/
 
-  script:
+before_script:
   - npm install hexo-cli -g
-  - npm install
-  - hexo deploy
+  - test -e package.json && npm install
+  - hexo generate
+
+pages:
+  script:
+    - hexo generate
   artifacts:
     paths:
-    - public
+      - public
   only:
-  - master
+    - master
 ```
 
 ## Building locally
