@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: peg195的博客
 subtitle:
-description:
-author: John Doe
-language:
+description:peg195
+author: peg195
+language:zh_cn
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: /
-root: "/hexo/"
+root: "/"
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
