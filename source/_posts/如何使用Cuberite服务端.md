@@ -1,3 +1,9 @@
+---
+title: 如何使用Cuberite服务端
+date: 2023-08-16 19:45
+tags: [我的世界,Minecraft,Cuberite]]
+categories: [Cuberite]
+---
 原文:https://book.cuberite.org
 修改并删减了一些内容
 0 - 简介
