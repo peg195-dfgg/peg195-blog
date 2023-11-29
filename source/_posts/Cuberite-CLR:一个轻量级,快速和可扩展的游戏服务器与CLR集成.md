@@ -1,5 +1,5 @@
 ---
-title: 如何使用Cuberite服务端
+title: Cuberite-CLR:一个轻量级,快速和可扩展的游戏服务器与CLR集成
 date: 2023-08-16 19:45
 tags: [我的世界,Minecraft,Cuberite]
 categories: [Cuberite]
