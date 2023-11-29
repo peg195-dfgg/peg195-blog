@@ -4,11 +4,11 @@
 
 # Site
 title: peg195的博客
-subtitle:
-description:
+subtitle: peg195's blog
+description: 这是peg195的博客
 author: peg195
-language:
-timezone:
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
