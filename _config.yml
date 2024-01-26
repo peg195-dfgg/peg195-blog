@@ -63,7 +63,20 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hive
+theme: hexo-hive
+menu:
+  - page: home
+    directory: /
+  - page: archive
+    directory: /archives/
+  - page: rss
+    directory: /atom.xml
+
+footer:
+  - item: contact-us
+    directory: /contact-us
+  - item: about-us
+    directory: /about-us
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
