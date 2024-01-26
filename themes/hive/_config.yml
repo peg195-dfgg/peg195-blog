@@ -26,8 +26,8 @@ menu:
     directory: /archives/
   - page: rss
     directory: /atom.xml
-  - page: github
-    directory: https://github.com/farnaziifz
+  - page: gitlab
+    directory: https://gitlab.com/peg195
 
 footer:
   - item: contact-us
