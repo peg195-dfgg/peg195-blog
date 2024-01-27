@@ -1,6 +1,6 @@
 menu:
-  Home:
-  Archives: archives
+  Home: /
+  Archives: /archives
 
 widgets:
 - search
@@ -17,7 +17,7 @@ twitter:
 fancybox: true
 
 google_analytics:
-rss:
+rss: https://peg195.eu.org/atom.xml
 
 comment_provider: facebook
 # Facebook comment
