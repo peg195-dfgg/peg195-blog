@@ -1,8 +1,8 @@
 ---
 title: 编译一个Cuberite_dfgg服务端
 date: 2024-03-26 19:45
-tags: [我的世界,Minecraft,Cuberite]
-categories: [Cuberite]
+tags: [Minecraft,Cuberite]
+categories: [Minecraft服务端]
 ---
 这个文章讲的是如何编译一个Cuberite_dfgg服务端
 Cuberite_dfgg贴：https://bbs.dfggmc.top/d/82-%E4%B8%80%E4%B8%AA%E4%B8%AD%E6%96%87%E7%9A%84cuberite%E5%88%86%E5%8F%89cuberite_dfgg
